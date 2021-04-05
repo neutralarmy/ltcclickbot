@@ -39,7 +39,7 @@ if not os.path.exists("session"):
 
 print(banner)
 if len(sys.argv) < 2:
-    print("\n\n\n\033[1;32mUsage Pattern : python main.py +Your Number With Country Code")
+    print("\n\n\n\033[1;32mUsage Pattern : python ltcclickbot.py +Your Number With Country Code")
     sys.exit(1)
 
 
