@@ -1,4 +1,4 @@
-python
+
 beautifulsoup4
 certifi
 chardet
